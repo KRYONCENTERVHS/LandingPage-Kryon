@@ -2,7 +2,7 @@
 "use client";
 
 import Link from "next/link";
-import Image from "next/image"
+import Image from "next/image";
 import {
   Card,
   CardContent,
@@ -45,7 +45,7 @@ export default function PdfListPage() {
       name: "Protocolo Firmado",
       file: "Protocolo-Cabina-Firmado-2F.pdf",
       description: "Protocolo firmado en fase de ejecución.",
-    }
+    },
   ];
 
   return (
@@ -56,8 +56,9 @@ export default function PdfListPage() {
             Prueba de eficiencia
           </h1>
           <p className="text-xl max-w-3xl mx-auto">
-            Haz clic en “Ver” para ver el PDF en el navegador o en “Descargar”
-            para guardarlo.
+            En esta sección encontrarás los reportes, dictámenes y evaluaciones
+            técnicas realizadas por especialistas de PEMEX que avalan el
+            funcionamiento de la Cabina Cuántica.
           </p>
         </div>
       </section>
