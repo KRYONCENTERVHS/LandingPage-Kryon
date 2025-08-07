@@ -53,7 +53,7 @@ export default function PdfListPage() {
       <section className="w-full py-20 bg-gradient-to-r from-[#053c6d] to-[#1f749c] text-white">
         <div className="container mx-auto px-4 text-center">
           <h1 className="text-4xl md:text-6xl font-bold mb-6">
-            Prueba Tecnológica
+            Prueba de eficiencia
           </h1>
           <p className="text-xl max-w-3xl mx-auto">
             Haz clic en “Ver” para ver el PDF en el navegador o en “Descargar”

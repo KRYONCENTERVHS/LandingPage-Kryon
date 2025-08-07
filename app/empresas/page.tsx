@@ -141,9 +141,9 @@ export default function EmpresasPage() {
                   <Link
                     target="_blank"
                     href="https://wa.me/529937548276?text=%C2%A1Hola%20Kryon!%20Me%20gustar%C3%ADa%20solicitar%20una%20cotizaci%C3%B3n%20para%20el%20Plan%2060.%0AEstoy%20interesado(a)%20en%20conocer%20los%20detalles%20de%20este%20plan%20para%20empresas%20medianas,%20as%C3%AD%20como%20otras%20opciones%20disponibles%20en%20caso%20de%20que%20existan."
-                    >
-                      Solicitar cotización
-                    </Link>
+                  >
+                    Solicitar cotización
+                  </Link>
                 </Button>
               </CardContent>
             </Card>
@@ -351,6 +351,13 @@ export default function EmpresasPage() {
                       está considerando su implementación en más áreas de la
                       empresa.
                     </p>
+                    <div className="mt-4 flex justify-end">
+                      <Button className="w-40 bg-[#054891] hover:bg-[#053c6d] flex">
+                        <Link target="_blank" href="/prueba-tecnologica">
+                          Pruebas de eficiencia
+                        </Link>
+                      </Button>
+                    </div>
                   </div>
                 </div>
               </CardContent>
@@ -389,7 +396,7 @@ export default function EmpresasPage() {
           </div>
         </div>
       </section>
-    {/* Testimonios 
+      {/* Testimonios 
       
       <section className="py-20 bg-white w-full">
         <div className="container mx-auto px-4">
@@ -399,7 +406,7 @@ export default function EmpresasPage() {
           <FormularioCotizacion />
         </div>
       </section>
-      */ }
+      */}
     </main>
   );
 }

@@ -11,15 +11,15 @@
       "static/chunks/main-app.js",
       "static/chunks/app/page.js"
     ],
-    "/presentacion/page": [
+    "/empresas/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/presentacion/page.js"
+      "static/chunks/app/empresas/page.js"
     ],
-    "/_not-found/page": [
+    "/prueba-tecnologica/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/_not-found/page.js"
+      "static/chunks/app/prueba-tecnologica/page.js"
     ]
   }
 }
