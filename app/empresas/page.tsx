@@ -353,7 +353,7 @@ export default function EmpresasPage() {
                     </p>
                     <div className="mt-4 flex justify-end">
                       <Button className="w-40 bg-[#054891] hover:bg-[#053c6d] flex">
-                        <Link target="_blank" href="/prueba-tecnologica">
+                        <Link target="_blank" href="/prueba-eficiencia">
                           Pruebas de eficiencia
                         </Link>
                       </Button>
