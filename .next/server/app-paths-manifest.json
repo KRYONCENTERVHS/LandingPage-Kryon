@@ -1,5 +1,4 @@
 {
-  "/presentaciones/page": "app/presentaciones/page.js",
-  "/pruebas-pemex/page": "app/pruebas-pemex/page.js",
-  "/empresas/page": "app/empresas/page.js"
+  "/page": "app/page.js",
+  "/prueba-tecnologica/page": "app/prueba-tecnologica/page.js"
 }
