@@ -20,19 +20,25 @@ export default function PdfListPage() {
       image: "/Carta-intencion-CCAQ.png",
       name: "Carta de Intención",
       file: "Carta-de-intención-CCAQ.pdf",
-      description: "Carta de intención para la colaboración con CCAQ.",
+      description: "Carta de intención para la colaboración con AQ.",
     },
     {
-      image: "/Cedula-pruebas.png",
-      name: "Cédula de Cabina 2P APSL",
-      file: "Cedula-Cabina-2P-APSL.pdf",
-      description: "Cédula de cabina 2P APSL para pruebas tecnológicas.",
+      image: "/Protocolo-Cabina-Firmado.png",
+      name: "Protocolo Firmado",
+      file: "Protocolo-Cabina-Firmado-2F.pdf",
+      description: "Protocolo firmado 1ra. Fase.",
     },
     {
       image: "/Cedulaa-firmada.png",
       name: "Cédula Firmada CC",
       file: "Cedula-firmada-CC.pdf",
-      description: "Cédula firmada para la colaboración con CCAQ.",
+      description: "Cédula firmada para la colaboración con .",
+    },
+    {
+      image: "/Cedula-pruebas.png",
+      name: "Cédula de Cabina 2P APSL",
+      file: "Cedula-Cabina-2P-APSL.pdf",
+      description: "Cedula firmada 2da. Parte.",
     },
     {
       image: "/Informe-firmado.png",
@@ -41,10 +47,10 @@ export default function PdfListPage() {
       description: "Informe firmado de la cabina de pruebas.",
     },
     {
-      image: "/Protocolo-Cabina-Firmado.png",
-      name: "Protocolo Firmado",
-      file: "Protocolo-Cabina-Firmado-2F.pdf",
-      description: "Protocolo firmado en fase de ejecución.",
+      image: "/carta-aprobacion.png",
+      name: "Informe Firmado",
+      file: "CARTA-APROBACION-PT-AQ.pdf",
+      description: "Carta de aprobacion AQ.",
     },
   ];
 
