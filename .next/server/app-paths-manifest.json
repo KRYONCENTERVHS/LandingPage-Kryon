@@ -1,6 +1,10 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
   "/page": "app/page.js",
-  "/contacto/page": "app/contacto/page.js",
-  "/refugio-cuantico/page": "app/refugio-cuantico/page.js"
+  "/nosotros/page": "app/nosotros/page.js",
+  "/terapias/page": "app/terapias/page.js",
+  "/productos/page": "app/productos/page.js",
+  "/empresas/page": "app/empresas/page.js",
+  "/prueba-eficiencia/page": "app/prueba-eficiencia/page.js",
+  "/prueba-tecnologica/page": "app/prueba-tecnologica/page.js"
 }

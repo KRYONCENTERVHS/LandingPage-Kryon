@@ -96,11 +96,11 @@ export default function TerapiasPage() {
             <div className="bg-white p-8 rounded-lg shadow-lg">
               <div className="mb-6">
                 <h3 className="text-xl font-bold mb-3 text-[#1f749c]">Precio</h3>
-                <p className="text-lg">$500 MXN por sesión</p>
+                <p className="text-lg">$900 MXN por sesión</p>
               </div>
               <div className="mb-6">
                 <h3 className="text-xl font-bold mb-3 text-[#1f749c]">Duración</h3>
-                <p className="text-lg">Cada sesión tiene una duración aproximada de 20 minutos.</p>
+                <p className="text-lg">Cada sesión tiene una duración aproximada de 20 a 40 minutos.</p>
               </div>
               <div className="mb-6">
                 <h3 className="text-xl font-bold mb-3 text-[#1f749c]">Recomendaciones</h3>
