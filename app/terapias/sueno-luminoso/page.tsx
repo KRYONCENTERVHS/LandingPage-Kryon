@@ -257,7 +257,7 @@ export default function SuenoLuminosoTerapiaPage() {
               </div>
               <div>
                 <h3 className="text-xl font-bold mb-3 text-[#1f749c]">Precio</h3>
-                <p className="text-lg">$500 MXN por sesión</p>
+                <p className="text-lg">$2000 MXN por sesión</p>
               </div>
               <div>
                 <h3 className="text-xl font-bold mb-3 text-[#1f749c]">Frecuencia Recomendada</h3>
