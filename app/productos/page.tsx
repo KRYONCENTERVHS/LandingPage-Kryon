@@ -36,7 +36,7 @@ const productos = [
     id: "Termo",
     title: "Termo Estructurador de Energia Cuantica",
     description: "Revitalización estructural de agua para una hidratación óptima.",
-    price: "$1,500 MXN",
+    price: "$3,500 MXN",
     image: "/Estructurador-Cuantico.webp?height=300&width=500",
     link: "/productos/estructurador",
     link_compra: "https://wa.me/529937548276?text=%C2%A1Hola%20Kryon!%20Me%20gustar%C3%ADa%20adquirir%20el%20Termo%20Estructurador%20de%20Energia%20Cuantica.",

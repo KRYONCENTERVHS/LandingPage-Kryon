@@ -43,7 +43,7 @@ export default function EstructuradorCuanticoPage() {
                 energía e impactan positivamente el bienestar físico y mental de quien la consume.
               </p>
               <div className="flex items-center mb-6">
-                <span className="text-2xl font-bold text-[#053c6d] dark:text-white mr-4">$1,500 MXN</span>
+                <span className="text-2xl font-bold text-[#053c6d] dark:text-white mr-4">$3,500 MXN</span>
                 <Button className="bg-[#39a6cf] hover:bg-[#1f749c]">
                   <Link href="https://wa.me/529937548276?text=%C2%A1Hola%20Kryon!%20Me%20gustar%C3%ADa%20adquirir%20el%20Termo%20Estructurador%20de%20Energia%20Cuantica." target="_blank">
                   Comprar ahora
