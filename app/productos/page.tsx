@@ -27,7 +27,7 @@ const productos = [
     id: "stickers",
     title: "Stickers Cuánticos",
     description: "Tecnología para armonizar las frecuencias electromagneticas.",
-    price: "$100 MXN cada uno",
+    price: "$300 MXN cada uno",
     image: "/Stickers-Kryon.webp?height=300&width=500",
     link: "/productos/stickers",
     link_compra: "https://wa.me/529937548276?text=%C2%A1Hola%20Kryon!%20Me%20gustar%C3%ADa%20adquirir%20los%20Stickers%20Cu%C3%A1nticos.",
