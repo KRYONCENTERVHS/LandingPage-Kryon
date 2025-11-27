@@ -44,7 +44,7 @@ export default function StickerEMFPage() {
                 con celulares, computadoras, televisores, microondas y más.
               </p>
               <div className="flex items-center mb-6">
-                <span className="text-2xl font-bold text-[#053c6d] dark:text-white mr-4">$200 MXN</span>
+                <span className="text-2xl font-bold text-[#053c6d] dark:text-white mr-4">$300 MXN</span>
                 <Button className="bg-[#39a6cf] hover:bg-[#1f749c]">
                   <Link href="https://wa.me/529937548276?text=%C2%A1Hola%20Kryon!%20Me%20gustar%C3%ADa%20adquirir%20los%20Stickers%20Cu%C3%A1nticos." target="_blank">
                   Comprar ahora
