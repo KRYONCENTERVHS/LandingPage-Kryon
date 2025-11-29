@@ -155,7 +155,7 @@ export default function ContactoPage() {
                   Lunes - 16
                 </span>
                 <span className="text-gray-700 dark:text-gray-300">
-                  9:00 AM - 7:00 PM
+                  9:00 AM - 8:00 PM
                 </span>
               </div>
               <div className="bg-gray-100 dark:bg-gray-700 px-6 py-3 rounded-lg">
@@ -163,7 +163,7 @@ export default function ContactoPage() {
                   Martes - 16
                 </span>
                 <span className="text-gray-700 dark:text-gray-300">
-                  9:00 AM - 7:00 PM
+                  9:00 AM - 8:00 PM
                 </span>
               </div>
               <div className="bg-gray-100 dark:bg-gray-700 px-6 py-3 rounded-lg">
@@ -171,7 +171,7 @@ export default function ContactoPage() {
                   Miercoles - 17
                 </span>
                 <span className="text-gray-700 dark:text-gray-300">
-                  9:00 AM - 7:00 PM
+                  9:00 AM - 8:00 PM
                 </span>
               </div>
             </div>
