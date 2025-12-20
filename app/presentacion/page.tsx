@@ -22,6 +22,12 @@ export default function PdfListPage() {
       file: "Cabina Cuántica AQ.pdf",
       description: "Carta de intención para la colaboración con CCAQ.",
     },
+    {
+      image: "/conalep-presentacion.webp",
+      name: "Evaluación CONALEP",
+      file: "Presentacion CONALEP.pdf",
+      description: "Colaboración con CONALEP.",
+    },
   ];
 
   return (
