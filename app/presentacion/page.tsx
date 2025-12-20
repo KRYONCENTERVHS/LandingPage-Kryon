@@ -26,7 +26,7 @@ export default function PdfListPage() {
       image: "/conalep-presentacion.webp",
       name: "Evaluación CONALEP",
       file: "Presentacion CONALEP.pdf",
-      description: "Colaboración con CONALEP.",
+      description: "Presentación de Colaboración con CONALEP.",
     },
   ];
 
