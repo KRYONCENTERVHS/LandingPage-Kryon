@@ -4,7 +4,7 @@ import path from 'path'
 import { notFound } from 'next/navigation'
 
 interface Props {
-  params: { pdf: string }
+  params?: { pdf?: string | string[] }
 }
 
 // 1. Genera de forma estática todos los parámetros { pdf: 'archivo.pdf' }
@@ -16,8 +16,15 @@ export async function generateStaticParams() {
 }
 
 export default function PdfViewerPage({ params }: Props) {
-  const { pdf } = params
-  const filePath = path.join(process.cwd(), 'public', pdf)
+  const pdfParam = params?.pdf
+  const pdf = Array.isArray(pdfParam) ? pdfParam[0] : pdfParam
+
+  if (!pdf) {
+    notFound()
+  }
+
+  const decodedPdf = decodeURIComponent(pdf)
+  const filePath = path.join(process.cwd(), 'public', decodedPdf)
 
   // 2. Seguridad: si alguien pide un archivo que no existe → 404
   if (!fs.existsSync(filePath)) {
@@ -28,9 +35,9 @@ export default function PdfViewerPage({ params }: Props) {
   return (
     <div className="w-full h-screen">
       <iframe
-        src={`/${pdf}`}
+        src={`/${encodeURIComponent(decodedPdf)}`}
         className="w-full h-full border-0"
-        title={`Visor de ${pdf}`}
+        title={`Visor de ${decodedPdf}`}
       />
     </div>
   )

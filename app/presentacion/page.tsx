@@ -19,13 +19,13 @@ export default function PdfListPage() {
     {
       image: "/cabina-aq.png",
       name: "Carta de Intención",
-      file: "Cabina Cuántica AQ.pdf",
+      file: "/Cabina Cuántica AQ.pdf",
       description: "Carta de intención para la colaboración con CCAQ.",
     },
     {
       image: "/conalep-presentacion.webp",
       name: "Evaluación CONALEP",
-      file: "Presentacion CONALEP.pdf",
+      file: "/Presentacion CONALEP.pdf",
       description: "Presentación de Colaboración con CONALEP.",
     },
   ];

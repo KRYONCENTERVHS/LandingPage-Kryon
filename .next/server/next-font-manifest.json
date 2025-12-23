@@ -1,1 +1,109 @@
-{"pages":{},"app":{"/Users/keaf/Downloads/Trabajo/LandingPage-Kryon/app/layout":["static/media/e4af272ccee01ff0-s.p.woff2"]},"appUsingSizeAdjust":true,"pagesUsingSizeAdjust":false}
+{
+  "app": {
+    "[project]/Downloads/Trabajo/LandingPage-Kryon/app/_not-found/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/Downloads/Trabajo/LandingPage-Kryon/app/blog/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/Downloads/Trabajo/LandingPage-Kryon/app/cabina/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/Downloads/Trabajo/LandingPage-Kryon/app/contacto/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/Downloads/Trabajo/LandingPage-Kryon/app/empresas/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/Downloads/Trabajo/LandingPage-Kryon/app/jornada/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/Downloads/Trabajo/LandingPage-Kryon/app/nosotros/ivan-hernandez/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/Downloads/Trabajo/LandingPage-Kryon/app/nosotros/kevin-ascencio/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/Downloads/Trabajo/LandingPage-Kryon/app/nosotros/nadia-zavaleta/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/Downloads/Trabajo/LandingPage-Kryon/app/nosotros/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/Downloads/Trabajo/LandingPage-Kryon/app/nosotros/ricardo-gaytan/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/Downloads/Trabajo/LandingPage-Kryon/app/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/Downloads/Trabajo/LandingPage-Kryon/app/presentacion/[pdf]/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/Downloads/Trabajo/LandingPage-Kryon/app/presentacion/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/Downloads/Trabajo/LandingPage-Kryon/app/productos/estructurador/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/Downloads/Trabajo/LandingPage-Kryon/app/productos/gel/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/Downloads/Trabajo/LandingPage-Kryon/app/productos/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/Downloads/Trabajo/LandingPage-Kryon/app/productos/personalizado/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/Downloads/Trabajo/LandingPage-Kryon/app/productos/pulsera-energetica/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/Downloads/Trabajo/LandingPage-Kryon/app/productos/stickers/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/Downloads/Trabajo/LandingPage-Kryon/app/prueba-eficiencia/[pdf]/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/Downloads/Trabajo/LandingPage-Kryon/app/prueba-eficiencia/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/Downloads/Trabajo/LandingPage-Kryon/app/prueba-tecnologica/[pdf]/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/Downloads/Trabajo/LandingPage-Kryon/app/prueba-tecnologica/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/Downloads/Trabajo/LandingPage-Kryon/app/refugio-cuantico/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/Downloads/Trabajo/LandingPage-Kryon/app/terapias/armonia/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/Downloads/Trabajo/LandingPage-Kryon/app/terapias/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/Downloads/Trabajo/LandingPage-Kryon/app/terapias/reconexion/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/Downloads/Trabajo/LandingPage-Kryon/app/terapias/regenerativa/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/Downloads/Trabajo/LandingPage-Kryon/app/terapias/sueno-luminoso/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/Downloads/Trabajo/LandingPage-Kryon/app/terapias/zen/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/Downloads/Trabajo/LandingPage-Kryon/app/testimonios/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/Downloads/Trabajo/LandingPage-Kryon/app/tienda/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ],
+    "[project]/Downloads/Trabajo/LandingPage-Kryon/app/visualizadorPPT/page": [
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}
