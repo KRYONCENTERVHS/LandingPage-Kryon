@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
-import { Check } from "lucide-react";
+import { Check, ArrowRight } from "lucide-react";
 import FormularioCotizacion from "@/components/ui/formulario";
 import Link from "next/link";
 
@@ -55,6 +55,78 @@ export default function EmpresasPage() {
                 className="w-full h-full object-cover"
               />
             </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Servicios */}
+      <section className="py-20 bg-gray-50 w-full">
+        <div className="container mx-auto px-4">
+          <h2 className="text-3xl md:text-4xl font-bold text-center mb-4 text-[#053c6d]">
+            Servicios
+          </h2>
+          <p className="text-lg text-center text-gray-600 max-w-3xl mx-auto mb-12">
+            Soluciones de alto impacto para empresas que desean reducir estrés,
+            elevar la vitalidad de sus equipos y fortalecer su cultura de
+            bienestar.
+          </p>
+
+          <div className="max-w-5xl mx-auto">
+            <Card className="bg-white shadow-2xl overflow-hidden border border-[#d9e9f4] transition-all duration-300 hover:-translate-y-1 hover:shadow-[0_20px_50px_-20px_rgba(5,60,109,0.5)]">
+              <CardContent className="p-0">
+                <div className="grid grid-cols-1 md:grid-cols-2">
+                  <div className="h-full relative">
+                    <Image
+                      src="/Cabina-G.webp?height=600&width=900"
+                      alt="Cabina AQ de Kryon Center"
+                      width={900}
+                      height={600}
+                      className="w-full h-full object-cover"
+                    />
+                    <div className="absolute top-4 left-4 bg-white/90 backdrop-blur-sm text-[#053c6d] text-xs md:text-sm font-semibold px-3 py-1 rounded-full shadow">
+                      Servicio Empresarial Premium
+                    </div>
+                  </div>
+                  <div className="p-8">
+                    <h3 className="text-2xl font-bold mb-3 text-[#1f749c]">
+                      Cabina AQ
+                    </h3>
+                    <p className="text-gray-700 mb-5">
+                      Tecnología cuántica avanzada para reducir el estrés,
+                      equilibrar energía y promover procesos naturales de
+                      bienestar en entornos corporativos.
+                    </p>
+                    <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 mb-6">
+                      <div className="rounded-lg border border-[#d4e4ef] bg-[#f5fbff] p-3">
+                        <p className="text-xs uppercase tracking-wide text-[#1f749c] font-bold mb-1">
+                          Venta
+                        </p>
+                        <p className="font-semibold text-[#053c6d] text-sm md:text-base">
+                          8,000,000 MXN
+                        </p>
+                        <p className="text-xs text-gray-600">$400,000 USD</p>
+                      </div>
+                      <div className="rounded-lg border border-[#d4e4ef] bg-[#f5fbff] p-3">
+                        <p className="text-xs uppercase tracking-wide text-[#1f749c] font-bold mb-1">
+                          Renta mensual
+                        </p>
+                        <p className="font-semibold text-[#053c6d] text-sm md:text-base">
+                          350,000 MXN
+                        </p>
+                        <p className="text-xs text-gray-600">$17,500 USD</p>
+                      </div>
+                    </div>
+
+                    <Button asChild className="bg-[#054891] hover:bg-[#053c6d] w-full sm:w-auto">
+                      <Link href="/empresas/cabina-aq">
+                        Ver más información
+                        <ArrowRight className="h-4 w-4 ml-2" />
+                      </Link>
+                    </Button>
+                  </div>
+                </div>
+              </CardContent>
+            </Card>
           </div>
         </div>
       </section>
